@@ -26,7 +26,7 @@ module.exports = {
       },
       button: {
         height: 36,
-        minWidth: 88,
+        minWidth: 40,
         iconButtonSize: rawTheme.spacing.iconSize * 2,
       },
       cardText: {
